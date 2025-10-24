@@ -1,4 +1,4 @@
-# LeetCode — Asaad
+# LeetCode
 
 **SMART goal (2025-10-26 → 2025-12-31):** 5 problems/week (Sun–Thur): 1 Easy, 3 Medium, 1 Hard. Each with a short explanation.
 
