@@ -4,7 +4,7 @@
 
 ## Progress
 - **Total solved:** <!-- auto -->0
-- **By difficulty:** Easy 0 · Medium 0 · Hard 0
+- **By difficulty:** Easy 1 · Medium 0 · Hard 0
 - **Streak (weeks meeting goal):** 0
 
 | Date       | # | Easy | Medium | Hard | Topics covered                      | Notes |
