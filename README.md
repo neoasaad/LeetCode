@@ -12,10 +12,4 @@
 | 2025-W44   | 0 | 0    | 0      | 0    |                                     |       |
 
 ## Structure
-- `python/<pattern>/problem.py` + short docstring explaining approach.
-- `notes/patterns.md` for gotchas and templates.
-
-## Conventions
-- File name: `####-kebab-title.py` (LeetCode ID first).
-- Top comment: time/space complexity + brief reasoning.
-- Commit message: `w44: 0121-best-time-buy-sell — greedy O(n)`
+- `python/problem.py` + short docstring explaining approach.
